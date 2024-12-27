@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-  cout << "hello world" << endl;
-  malloc(4)
+  cout << "hello world" << endl
   return 0;
 }
