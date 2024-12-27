@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-  cout << "jenkins auto build new" << endl;
+  cout << "my webhook" << endl;
   return 0;
 }
