@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-  cout << "my webhook new" << endl;
+  cout << "my webhook" << endl;
   return 0;
 }
