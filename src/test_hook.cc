@@ -1,7 +1,7 @@
 #include <stdlib.h>
 
 int main() {
-    void *ptr1 = malloc(4);
+    void *ptr1 = malloc(4);;
     void *ptr2 = malloc(4 * 1024);
     void *ptr3 = malloc(4 * 1024 * 1024);
     void *ptr4 = malloc(4);
