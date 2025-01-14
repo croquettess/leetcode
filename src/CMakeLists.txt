@@ -1,4 +1,4 @@
-add_executable(x_exec x.cc)
+add_executable(test_hook test_hook.c)
 
 #install(
 #    TARGETS ${TARGET}
